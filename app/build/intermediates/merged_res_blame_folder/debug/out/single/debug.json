@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/layout_fragment_create_user.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/layout/fragment_create_user.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/drawable_ic_false_border.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/drawable/ic_false_border.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/drawable_baseline_add_24.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/drawable_ic_border.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/drawable/ic_border.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/layout_fragment_list.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/drawable_ic_false.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/drawable/ic_false.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/drawable_ic_true.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/drawable/ic_true.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/navigation_nav_graph.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.seenu.disys.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.seenu.disys.app-merged_res-5:/layout_item_view_child.xml.flat",
+        "source": "com.seenu.disys.app-main-7:/layout/item_view_child.xml"
+    }
+]
